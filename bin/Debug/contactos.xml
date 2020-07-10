@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contactos>
+  <contacto dni="44661011W" nombre="Carla" telefono="669985445" email="cmenor@gmail.com" direccionPostal="A Coruña" />
+  <contacto dni="44488232J" nombre="Maria" telefono="612366256" email="mcmorais@gmail.com" direccionPostal="Pontevedra" />
+  <contacto dni="44662477L" nombre="Cristina" telefono="654498752" email="csabucedo@gmail.com" direccionPostal="Vigo" />
+  <contacto dni="45145584B" nombre="Nara" telefono="657896542" email="nmsierra@esei.uvigo.es" direccionPostal="Ourense" />
+</contactos>

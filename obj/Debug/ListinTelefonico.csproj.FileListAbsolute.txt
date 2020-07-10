@@ -1,0 +1,9 @@
+C:\Users\Nara\Desktop\ListinTelefonico\ListinTelefonico\bin\Debug\ListinTelefonico.exe.config
+C:\Users\Nara\Desktop\ListinTelefonico\ListinTelefonico\bin\Debug\ListinTelefonico.exe
+C:\Users\Nara\Desktop\ListinTelefonico\ListinTelefonico\bin\Debug\ListinTelefonico.pdb
+C:\Users\Nara\Desktop\ListinTelefonico\ListinTelefonico\obj\Debug\ListinTelefonico.Properties.Resources.resources
+C:\Users\Nara\Desktop\ListinTelefonico\ListinTelefonico\obj\Debug\ListinTelefonico.csproj.GenerateResource.cache
+C:\Users\Nara\Desktop\ListinTelefonico\ListinTelefonico\obj\Debug\ListinTelefonico.csproj.CoreCompileInputs.cache
+C:\Users\Nara\Desktop\ListinTelefonico\ListinTelefonico\obj\Debug\ListinTelefonico.exe
+C:\Users\Nara\Desktop\ListinTelefonico\ListinTelefonico\obj\Debug\ListinTelefonico.pdb
+C:\Users\Nara\Desktop\ListinTelefonico\ListinTelefonico\obj\Debug\ListinTelefonico.csprojAssemblyReference.cache
